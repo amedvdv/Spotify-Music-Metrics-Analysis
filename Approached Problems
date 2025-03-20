@@ -1,0 +1,18 @@
+# Problem
+
+Given the dataset to the project:
+https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset
+
+Overall Research Topic: 
+  The influence on the songs popularity & track attributes on spotify:
+  Doing an analysis of the album structure, the collaborations, and the listeners engagement
+
+Subtopic 1 - Influence of Popular Songs in Albums
+  Do albums with either one or multiple highly popular songs see a positive spillover effect on their engagement and popularity in comparison to other songs within the album
+
+Subtopic 2 - Musical Attributes in Collaborations vs Solo Tracks
+  How to the musical attributes differ between songs when an artist collaborates compared to a solo performance
+  i.e. Do collaborations result in a higher level of danceability, energy, or tempo?
+
+Subtopic 3 - Listener Engagement & Total Streams in Collaborative Albums
+  Is there an association between the presence of multiple artist collaboration on an album and a higher listener engagement or total streams on the album?
